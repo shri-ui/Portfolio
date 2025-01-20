@@ -14,7 +14,7 @@ This is the personal portfolio website of Shrinivasan Shripanavar, showcasing sk
 - JavaScript
 - Bootstrap
 - jQuery
-- React JS
+
 
 ## 🌟 Features
 
